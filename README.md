@@ -1,4 +1,4 @@
-Opa rapazeada, seja bem vindo ao meu perfil, meu nome é matheus, sou estudante do primeiro ano do Ensino Mendio 👋
+Opa rapazeada, seja bem vindo ao meu perfil, meu nome é matheus, sou estudante do primeiro ano do Ensino Medio 
 
 <!--
 **Goiaba010/Goiaba010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
